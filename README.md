@@ -23,7 +23,7 @@
 ![image](https://github.com/juheechoi01/automated_spacial_audio_tuning/assets/109716683/c95707fb-595b-45e7-ae43-80ce104d53f1)
 
 ## Results - Mechanism of the Program
-비디오 산업에서 통용되는 16:9 해상도의 영상을 기준으로 돌아가게끔 설정했다. 가장 중앙을 O라고 표시하고, 중심을 기준으로 입술이 왼쪽에 위치하면 동시에 음향의 L값을 키우고, R값을 줄여야 한다. 또한 인간 음성의 경우 -6 ~ -18dB 사이를 유지해야 하기 때문에 만약 영상의 가장 왼쪽에 입술이 위치한다면 L값은 -6dB, R값은 -18dB이 되게끔 설정한다.  
+비디오 산업에서 통용되는 16:9 해상도의 영상을 기준으로 돌아가게끔 설정했다. 가장 중앙을 O라고 표시하고, 중심을 기준으로 입술이 왼쪽에 위치하면 동시에 음향의 L값을 키우고, R값을 줄여야 한다. 또한 인간 음성의 경우 -6 ~ -18dB 사이를 유지해야 하기 때문에 만약 영상의 가장 왼쪽에 입술이 위치한다면 L값은 -6dB, R값은 -18dB이 되게끔 설정한다. (아래 이미지를 클릭하면 설명 영상이 틀어진다.)
 
 [![Video Label](http://img.youtube.com/vi/eTaSXu5qTQM/0.jpg)](https://www.youtube.com/watch?v=eTaSXu5qTQM)
 
